@@ -1,0 +1,20 @@
+Project 1 (Reverse Engineering a Network App)
+COMP 375 (Computer Networks) @ USD
+
+1. Your full name: Tyler Kreider
+
+2. Your USD email address: tkreider@sandiego.edu
+
+3. A typed copy of USD's academic integrity pledge, found on page 3 of 
+   https://www.sandiego.edu/conduct/documents/HonorCode.pdf.
+   To be clear, it is the text that starts, "I pledge to demonstrate...".
+	
+	I pledge to demonstrate personal and academic integrity in all matters with my fellow students, the faculty, and the administration here at USD. I promise to be honest and accountable for my actions; and to uphold the statutes of scholastic honesty to better myself and those around me.
+
+4. Hours spent on project:
+	- Wireshark Analysis: 2
+	- C programming: 8
+
+5. Known bugs: none
+
+7. (Optional) Comments about the project:	
